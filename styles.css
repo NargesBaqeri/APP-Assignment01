@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color:brown;
+    font-size: 35px;
+    }
+
+body{
+    background-color: orange;
+    }
+section{
+    background-color: white;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:30px;
+    margin-top: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border: brown solid 3px;
+    }
+
+footer{
+    text-align: center;
+    background-color: white;
+    }
